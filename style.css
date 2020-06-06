@@ -1,0 +1,35 @@
+img{
+    min-width: 30%;
+    max-width: 100%;
+}
+h1{
+    color: blueviolet;
+    font-weight: bold;
+    min-width: 30%;
+    max-width: 100%;
+}
+table{
+    
+    width: 100%;
+    min-width: 20%;
+    max-width: 70%;
+    margin-left: 10%;
+}
+td{
+    color: black
+    padding: 0.40%;
+
+}
+div{
+	margin-left: 40%;
+}
+input[type=submit]{
+    background-color: yellow;
+    padding: 1%;
+    color: black;
+    font-weight: bold;
+}
+body{
+    background-color: wheat;
+}
+
